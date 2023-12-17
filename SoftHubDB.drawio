@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T15:29:00.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NHkK6XQirER1nSlDAlKJ" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T17:04:01.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tKONWAVP7XLaPaQcNiUB" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="0MV36oEUkLjYBx1AANBR">
-    <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,7 +548,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mC7Bvy9f36BZvepkwvA2-162" value="LogType" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="920" y="560" width="400" height="90" as="geometry" />
+          <mxGeometry x="1040" y="560" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mC7Bvy9f36BZvepkwvA2-163" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-162">
           <mxGeometry y="30" width="400" height="30" as="geometry" />
@@ -587,7 +587,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mC7Bvy9f36BZvepkwvA2-175" value="Log" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="480" y="560" width="400" height="360" as="geometry" />
+          <mxGeometry x="480" y="560" width="400" height="390" as="geometry" />
         </mxCell>
         <mxCell id="mC7Bvy9f36BZvepkwvA2-176" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-175">
           <mxGeometry y="30" width="400" height="30" as="geometry" />
@@ -718,7 +718,7 @@
         <mxCell id="mC7Bvy9f36BZvepkwvA2-212" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-175">
           <mxGeometry y="240" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mC7Bvy9f36BZvepkwvA2-213" value="EnterDate" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-212">
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-213" value="Date" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-212">
           <mxGeometry width="131" height="30" as="geometry">
             <mxRectangle width="131" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -728,7 +728,7 @@
             <mxRectangle width="136" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mC7Bvy9f36BZvepkwvA2-215" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-212">
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-215" value="Время лога." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-212">
           <mxGeometry x="267" width="133" height="30" as="geometry">
             <mxRectangle width="133" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -782,9 +782,62 @@
             <mxRectangle width="136" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mC7Bvy9f36BZvepkwvA2-219" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-216">
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-219" value="Имя пользователя в компьютере." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-216">
           <mxGeometry x="267" width="133" height="30" as="geometry">
             <mxRectangle width="133" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-220" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-175">
+          <mxGeometry y="360" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-221" value="AppVersion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-220">
+          <mxGeometry width="131" height="30" as="geometry">
+            <mxRectangle width="131" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-222" value="vc(50)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-220">
+          <mxGeometry x="131" width="136" height="30" as="geometry">
+            <mxRectangle width="136" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-223" value="Используется только если тип лога выбран как приложение. Также должен содержать версию SoftHub, если это лог запуска." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=6;" vertex="1" parent="mC7Bvy9f36BZvepkwvA2-220">
+          <mxGeometry x="267" width="133" height="30" as="geometry">
+            <mxRectangle width="133" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mC7Bvy9f36BZvepkwvA2-180" target="mC7Bvy9f36BZvepkwvA2-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mC7Bvy9f36BZvepkwvA2-184" target="mC7Bvy9f36BZvepkwvA2-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="665" />
+              <mxPoint x="470" y="440" />
+              <mxPoint x="21" y="440" />
+              <mxPoint x="21" y="430" />
+              <mxPoint x="20" y="430" />
+              <mxPoint x="20" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mC7Bvy9f36BZvepkwvA2-188" target="mC7Bvy9f36BZvepkwvA2-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mC7Bvy9f36BZvepkwvA2-200" target="mC7Bvy9f36BZvepkwvA2-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="725" />
+              <mxPoint x="890" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mC7Bvy9f36BZvepkwvA2-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mC7Bvy9f36BZvepkwvA2-196" target="mC7Bvy9f36BZvepkwvA2-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="755" />
+              <mxPoint x="910" y="85" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
