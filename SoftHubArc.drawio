@@ -1,38 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T14:50:45.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Ly8WI4TsSgAPjWftzB5g" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:12:20.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="lTZwyBY-cLDpvH_zhsVz" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="71236_rjl9xkLxXNMGo-">
-    <mxGraphModel dx="1109" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-8" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="670" height="290" as="geometry" />
+        <mxCell id="tYsP8HOioMHmezU0ycBv-2" value="MainWindowView" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="1520" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-7" value="&quot;ELEMENTS_REGION that is controlled via RegionManager&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="540" height="120" as="geometry" />
+        <mxCell id="tYsP8HOioMHmezU0ycBv-1" value="&quot;MAIN_REGION that is controlled via RegionManager&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="1460" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-2" value="&quot;List of products&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="170" y="390" width="160" height="80" as="geometry" />
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-8" value="MainPageView" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="100" y="150" width="670" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-1" value="ProductView" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="140" height="40" as="geometry" />
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-7" value="&quot;ELEMENTS_REGION that is controlled via RegionManager&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="220" y="360" width="540" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-3" value="&quot;List of additional products&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="160" height="80" as="geometry" />
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-2" value="&quot;List of products&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="230" y="390" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-4" value="AdditionalProductView" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="140" height="40" as="geometry" />
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-1" value="ProductView" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="420" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-5" value="&quot;List of docs&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="530" y="390" width="160" height="80" as="geometry" />
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-3" value="&quot;List of additional products&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="410" y="390" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-6" value="DocumentationView" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="420" width="140" height="40" as="geometry" />
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-4" value="AdditionalProductView" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="420" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-9" value="&quot;CAROUSEL_REGION that is controlled via RegionManager&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="50" y="210" width="650" height="140" as="geometry" />
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-5" value="&quot;List of docs&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="590" y="390" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ds0M7onVDxwUf57aXnbW-11" value="&quot;ELEMENTS_&lt;br&gt;REGION control buttons&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="50" y="360" width="100" height="120" as="geometry" />
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-6" value="DocumentationView" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="420" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-9" value="&quot;CAROUSEL_REGION that is controlled via RegionManager&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="110" y="180" width="650" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds0M7onVDxwUf57aXnbW-11" value="&quot;ELEMENTS_&lt;br&gt;REGION control buttons&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="110" y="360" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tYsP8HOioMHmezU0ycBv-4" value="&quot;MAIN_REGION control buttons&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=44;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="tYsP8HOioMHmezU0ycBv-5" value="ActivationPageView" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="800" y="150" width="670" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="tYsP8HOioMHmezU0ycBv-6" value="&quot;ACTIVATION_REGION that is controlled via RegionManager&quot;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="810" y="220" width="650" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tYsP8HOioMHmezU0ycBv-7" value="&quot;ACTIVATION_REGION&amp;nbsp;control buttons&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=32;" vertex="1" parent="1">
+          <mxGeometry x="810" y="180" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tYsP8HOioMHmezU0ycBv-8" value="ActivationsPageView" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="820" y="250" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tYsP8HOioMHmezU0ycBv-9" value="&quot;List of activated or non activated apps. Could be just a text like &#39;All of the products are activated&#39;&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="830" y="280" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tYsP8HOioMHmezU0ycBv-10" value="ActivateAppView" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
