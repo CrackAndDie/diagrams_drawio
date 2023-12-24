@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-24T14:46:41.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="S-Ps6lg_M88iHwvKP1HJ" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-24T15:13:38.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="na8RxHOzsgxhcrLWFQ6C" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="71236_rjl9xkLxXNMGo-">
-    <mxGraphModel dx="2607" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -675,7 +675,7 @@
         <mxCell id="4Z8NdywnkS2wlI6_0NMr-2" value="UserService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#003366;" vertex="1" parent="1">
           <mxGeometry x="2000" y="1679" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Z8NdywnkS2wlI6_0NMr-7" value="IDocsService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#336600;fontColor=#336600;" vertex="1" parent="1">
+        <mxCell id="4Z8NdywnkS2wlI6_0NMr-7" value="IDocumentationService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#336600;fontColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1599" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Z8NdywnkS2wlI6_0NMr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#336600;" edge="1" parent="1" source="4Z8NdywnkS2wlI6_0NMr-9" target="4Z8NdywnkS2wlI6_0NMr-7">
@@ -686,7 +686,7 @@
             <mxPoint x="1680" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Z8NdywnkS2wlI6_0NMr-9" value="DocsService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#003366;" vertex="1" parent="1">
+        <mxCell id="4Z8NdywnkS2wlI6_0NMr-9" value="DocumentationService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#003366;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1679" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
