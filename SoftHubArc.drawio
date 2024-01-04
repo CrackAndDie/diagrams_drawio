@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T12:18:57.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TxkGUkSn6ontQ6Tq9liF" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T12:24:44.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tn7hxbOYrZ1mcoCmbAcQ" version="22.1.16" type="github">
   <diagram name="Страница — 1" id="71236_rjl9xkLxXNMGo-">
-    <mxGraphModel dx="1320" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s5Fj9y9Zb8mYuDfC8kLG-2" value="Native abstractions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=36;verticalAlign=top;align=center;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="s5Fj9y9Zb8mYuDfC8kLG-2" value="Native abstractions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=36;verticalAlign=top;align=center;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="2890" width="1760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="s5Fj9y9Zb8mYuDfC8kLG-1" value="Win/Linux/MacOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=36;verticalAlign=top;align=center;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="s5Fj9y9Zb8mYuDfC8kLG-1" value="Win/Linux/MacOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=36;verticalAlign=top;align=center;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="3290" width="630" height="340" as="geometry" />
         </mxCell>
         <mxCell id="tYsP8HOioMHmezU0ycBv-99" value="Database logics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;fontSize=32;movable=1;horizontal=0;" parent="1" vertex="1">
@@ -328,7 +328,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-74" value="ReadModelService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#003366;" parent="1" vertex="1">
+        <mxCell id="tYsP8HOioMHmezU0ycBv-74" value="ReadModelService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#FF3333;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1921" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tYsP8HOioMHmezU0ycBv-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#336600;" parent="1" source="tYsP8HOioMHmezU0ycBv-75" target="tYsP8HOioMHmezU0ycBv-76" edge="1">
@@ -354,7 +354,7 @@
         <mxCell id="tYsP8HOioMHmezU0ycBv-76" value="IAppLicenseService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#336600;fontColor=#336600;" parent="1" vertex="1">
           <mxGeometry x="2200" y="1599" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-78" value="IReadModelService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#336600;fontColor=#336600;" parent="1" vertex="1">
+        <mxCell id="tYsP8HOioMHmezU0ycBv-78" value="IReadModelService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;fontColor=#336600;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1840" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tYsP8HOioMHmezU0ycBv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#003366;" parent="1" source="tYsP8HOioMHmezU0ycBv-64" target="tYsP8HOioMHmezU0ycBv-78" edge="1">
@@ -392,10 +392,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-85" value="WriteModelService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#003366;" parent="1" vertex="1">
+        <mxCell id="tYsP8HOioMHmezU0ycBv-85" value="WriteModelService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#FF3333;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1921" width="160" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-86" value="IWriteModelService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#336600;fontColor=#336600;" parent="1" vertex="1">
+        <mxCell id="tYsP8HOioMHmezU0ycBv-86" value="IWriteModelService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;fontColor=#336600;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1840" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tYsP8HOioMHmezU0ycBv-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#336600;" parent="1" edge="1">
@@ -596,24 +596,6 @@
         <mxCell id="tYsP8HOioMHmezU0ycBv-146" value="SettingsService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#003366;" parent="1" vertex="1">
           <mxGeometry x="1000" y="2360" width="160" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-148" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;ISettingsService&lt;i&gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ InitTaskAsync(): Task&lt;br&gt;+ AddProduct(Product): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RemoveProduct(Product): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ TryGetProduct(int, out Product): bool&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ TryGetProduct(string, out Product): bool&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetAllProducts(): IList&amp;lt;Product&amp;gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="1560" width="240" height="142" as="geometry" />
-        </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-149" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;IManagementService&lt;i&gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ InitTaskAsync(): Task&lt;br&gt;+ GetIdentifier(): string&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3080" y="1560" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-154" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;ISecurityService&lt;i&gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ InitTaskAsync(): Task&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetIdentifier(): string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetCityTaskAsync(): Task&amp;lt;string&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetCountryTaskAsync(): Task&amp;lt;string&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SaveUserCredential(User): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ LoadUserCredential(): (string, string)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CurrentUser:&amp;nbsp;User&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3360" y="1560" width="280" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-155" value="Should be used only inside ISecurityService" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#663300;" parent="1" vertex="1">
-          <mxGeometry x="3070" y="1530" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-156" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;ServiceFactory&lt;i&gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Abstract class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Get&lt;span style=&quot;text-align: center;&quot;&gt;ManagementService&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(): IManagementService&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3680" y="1560" width="280" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="tYsP8HOioMHmezU0ycBv-157" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;IWebService&lt;i&gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ ExecuteRequest(BaseRequest): Task&amp;lt;RequestResult&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ HasInternetConnection: bool&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="4000" y="1560" width="560" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="tYsP8HOioMHmezU0ycBv-160" value="Used by upper database services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1740" y="2442" width="200" height="30" as="geometry" />
         </mxCell>
@@ -682,8 +664,14 @@
         <mxCell id="4Z8NdywnkS2wlI6_0NMr-9" value="DocumentationService" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#003366;strokeColor=#003366;" parent="1" vertex="1">
           <mxGeometry x="1600" y="1679" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s5Fj9y9Zb8mYuDfC8kLG-3" value="IManagementService&lt;br&gt;(Prepared by ServiceFactory)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#336600;fontColor=#336600;" vertex="1" parent="1">
+        <mxCell id="s5Fj9y9Zb8mYuDfC8kLG-3" value="IManagementService&lt;br&gt;(Prepared by ServiceFactory)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#336600;fontColor=#336600;" parent="1" vertex="1">
           <mxGeometry x="1240" y="2930" width="200" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="sCyZoPkCG9NG96IXm128-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#ff3333;" vertex="1" parent="1">
+          <mxGeometry x="480" y="700" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sCyZoPkCG9NG96IXm128-2" value="Removed/not used" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="695" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
